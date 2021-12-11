@@ -1,1 +1,2 @@
 Hello its new file to test.
+new modification to test the changes.
